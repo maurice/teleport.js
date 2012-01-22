@@ -1,0 +1,11 @@
+A node.js single-use file server
+
+1/ Install node.js: nodejs.org
+
+2/ Start the server: 
+
+	node teleport.js <some_file>
+
+3/ GET the file, eg, using a web browser or wget
+
+4/ Server will exit automatically once the download is complete
